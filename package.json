@@ -34,7 +34,7 @@
 		"@konceiver/kv-test-suite": "^1.0.0",
 		"@konceiver/tease": "^2.0.1",
 		"@types/fs-extra": "^9.0.12",
-		"@types/msgpack": "^0.0.30"
+		"@types/msgpack": "^0.0.31"
 	},
 	"types": "dist/index"
 }
